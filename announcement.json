@@ -1,1 +1,6 @@
-[message:hello guys we are now releasing soon this is beta, person:sstackingracks, time:15]
+{
+  "message": "hello guys we are now releasing soon this is beta",
+  "person": "sstackingracks",
+  "time": 15,
+  "commit": "commit-id"
+}
